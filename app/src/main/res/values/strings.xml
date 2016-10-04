@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioRecorder</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nombre_grabacion">NOMBRE</string>
+    <string name="grabar">GRABAR</string>
+    <string name="parar">PARAR</string>
+    <string name="reproducir">REPRODUCIR</string>
+    <string name="reiniciar">REINICIAR</string>
+</resources>
